@@ -2,6 +2,10 @@
 
 This project includes the development of API endpoint and the model used for English-french translation, i've attached a model and a requirements.txt file for running everything in a virtualenv 
 
+This video is a demo for the API
+https://github.com/Amr-Abdellatif/Building-Translator-API-endpoint-using-HF/assets/92921252/ae49a931-6b5d-4ddd-9bc1-d29e10504101
+
+
 ## Usage
 
 1. `pip install -r requirements.txt`
