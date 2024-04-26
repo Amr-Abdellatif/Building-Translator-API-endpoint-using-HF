@@ -22,3 +22,4 @@ This project includes the development of API endpoint and the model used for Eng
 # Training
 
 Training took around 1 hour on my Nividia Geoforce RTX-3060 6GB of memory.
+Training details can be found in Training notebook.
